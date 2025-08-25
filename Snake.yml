@@ -2,21 +2,24 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia
+    - cron: "0 0 * * *"   # diário
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: SEUUSUARIO
+          github_user_name: rafabrh
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-      - name: Push to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
