@@ -1,9 +1,9 @@
 <!-- Título -->
 # Olá, eu sou o Rafael Braghittoni! 👋
 
-Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando ADS na Anhembi Morumbi e construindo projetos práticos.
+Desenvolvedor focado em soluções tecnológicas. Atualmente estudando ADS na Anhembi Morumbi e construindo projetos práticos.
 
-<!-- Badges de redes (Shields.io) -->
+<!-- Badges de redes -->
 <div align="left">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thebraghittoni/)
@@ -17,19 +17,16 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 
 ## Tech Stack
 <p>
-  <!-- Core -->
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img alt="Apache Kafka" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
   <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <!-- Complementares -->
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Maven" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <!-- Front essentials (opcional) -->
   <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JS"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -63,14 +60,13 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 ---
 
 <div align="center">
-  <img src="assets/neon-term.gif" alt="terminal neon" width="85%" />
+  <img src="assets/neon-term.svg?v=1" alt="terminal neon" width="85%" />
 </div>
 
 ---
 
-## Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
 </picture>
