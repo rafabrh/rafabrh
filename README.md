@@ -59,12 +59,6 @@ Desenvolvedor focado em soluções tecnológicas. Atualmente estudando ADS na An
 
 ---
 
-<div align="center">
-  <img src="assets/neon-term.svg?v=1" alt="terminal neon" width="85%" />
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
