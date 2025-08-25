@@ -14,7 +14,7 @@
   <g transform="translate(30,40)" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22">
     <text x="0" y="0" fill="#00F5FF" filter="url(#glow)">rafa@machine</text>
     <text x="170" y="0" fill="#cdd6f4">:~$</text>
-    <text x="0" y="40" fill="#cdd6f4">git clone https://github.com/rafabrh/SEU-PROJETO.git</text>
+    <text x="0" y="40" fill="#cdd6f4">git clone https://github.com/rafabrh/</text>
     <text x="0" y="80" fill="#cdd6f4">mvn clean package -DskipTests</text>
     <text x="0" y="120" fill="#cdd6f4">java -jar target/app.jar</text>
 
