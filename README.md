@@ -16,43 +16,57 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 ---
 
 ## Tech Stack
-<!-- Ícones com Devicon (CDN) -->
+<!-- Ícones com Devicon (CDN) + badge COBOL -->
 <p>
+  <!-- Core -->
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Apache Kafka" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <!-- Complementares -->
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Maven" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <!-- Front essentials (opcional) -->
   <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JS"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TS"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <!-- adicione mais: java, spring, react, etc -->
+</p>
+
+<!-- COBOL não tem devicon oficial -->
+<p>
+  <img alt="COBOL" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ---
 
 ## Estatísticas
-<!-- GitHub Readme Stats (anuraghazra) -->
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true"
     height="165"
-  />
+/>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark&langs_count=8"
     height="165"
-  />
+/>
 </p>
 
-<!-- Streak (DenverCoder1) -->
 <p>
   <img 
     src="https://streak-stats.demolab.com?user=rafabrh&theme=dark&hide_border=true"
     height="165"
-  />
+/>
 </p>
 
 ---
 
 ## Banner (opcional)
-<img src="LINK_DA_SUA_IMAGEM" alt="banner" width="100%"/>
+<img src="assets/cyberpunk-banner.gif" alt="banner" width="100%"/>
 
-<!-- Snake (vai aparecer depois que você ativar o workflow) -->
-![snake gif](https://github.com/rafabrh/rafabrh/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake (gera via GitHub Actions; ver workflow) -->
+![snake gif](https://github.com/rafabrh/rafabrh/blob/output/snake.svg)
