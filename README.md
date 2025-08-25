@@ -65,8 +65,13 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 
 ---
 
-## Banner (opcional)
-<img src="assets/cyberpunk-banner.gif" alt="banner" width="100%"/>
+## Banner
+<!-- Suba seu GIF/PNG em /assets. Tamanho sugerido ~1600x400. -->
+<img src="assets/cyberpunk-banner.gif" alt="banner cyberpunk" width="100%" />
 
-<!-- Snake (gera via GitHub Actions; ver workflow) -->
-![snake gif](https://github.com/rafabrh/rafabrh/blob/output/snake.svg)
+## Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg">
+</picture>
