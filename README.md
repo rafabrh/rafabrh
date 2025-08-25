@@ -1,7 +1,7 @@
 <!-- Título -->
-# Olá, eu sou o SEU NOME! 👋
+# Olá, eu sou o Rafael Braghittoni! 👋
 
-Sou um desenvolvedor focado em web. Atualmente estudando ADS na Unopar e construindo projetos práticos.
+Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando ADS na Anhembi Morumbi e construindo projetos práticos.
 
 <!-- Badges de redes (Shields.io) -->
 <div align="left">
