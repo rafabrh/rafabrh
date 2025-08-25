@@ -32,11 +32,11 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 <!-- GitHub Readme Stats (anuraghazra) -->
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github"
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark"
     height="165"
   />
 </p>
@@ -44,7 +44,7 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 <!-- Streak (DenverCoder1) -->
 <p>
   <img 
-    src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=rafabrh&theme=dark&hide_border=true"
     height="165"
   />
 </p>
@@ -55,4 +55,4 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 <img src="LINK_DA_SUA_IMAGEM" alt="banner" width="100%"/>
 
 <!-- Snake (vai aparecer depois que você ativar o workflow) -->
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafabrh/rafabrh/blob/output/github-contribution-grid-snake.svg)
