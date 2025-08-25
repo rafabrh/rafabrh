@@ -63,11 +63,6 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 
 ---
 
-## Banner
-<img src="assets/cyberpunk-banner.svg" alt="banner cyberpunk" width="100%" />
-
----
-
 ## Terminal Neon
 <div align="center">
   <img src="assets/neon-term.gif" alt="terminal neon" width="85%" />
