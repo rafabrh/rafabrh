@@ -1,0 +1,26 @@
+<!-- assets/neon-term.svg -->
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05060d"></stop>
+      <stop offset="100%" stop-color="#11132a"></stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"></feGaussianBlur>
+      <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="14" fill="url(#grad)" stroke="#00F5FF" stroke-width="2"></rect>
+  <g transform="translate(30,40)" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22">
+    <text x="0" y="0" fill="#00F5FF" filter="url(#glow)">rafa@machine</text>
+    <text x="170" y="0" fill="#cdd6f4">:~$</text>
+    <text x="0" y="40" fill="#cdd6f4">git clone https://github.com/rafabrh/SEU-PROJETO.git</text>
+    <text x="0" y="80" fill="#cdd6f4">mvn clean package -DskipTests</text>
+    <text x="0" y="120" fill="#cdd6f4">java -jar target/app.jar</text>
+
+    <!-- cursor -->
+    <rect x="340" y="138" width="14" height="24" fill="#00F5FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"></animate>
+    </rect>
+  </g>
+</svg>
