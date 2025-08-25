@@ -1,0 +1,70 @@
+<!-- assets/cyberpunk-banner.svg -->
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"></stop>
+      <stop offset="50%" stop-color="#302b63"></stop>
+      <stop offset="100%" stop-color="#24243e"></stop>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5FF"></stop>
+      <stop offset="100%" stop-color="#FF00D4"></stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="400" fill="url(#bg)"></rect>
+
+  <!-- grid -->
+  <g opacity="0.25">
+    <g stroke="#00F5FF" stroke-width="1">
+      <!-- vertical lines -->
+      <g>
+        <!-- 40 linhas -->
+        <g id="v">
+          <line x1="0" y1="220" x2="0" y2="400"></line>
+        </g>
+        <use href="#v" x="40"></use><use href="#v" x="80"></use><use href="#v" x="120"></use><use href="#v" x="160"></use>
+        <use href="#v" x="200"></use><use href="#v" x="240"></use><use href="#v" x="280"></use><use href="#v" x="320"></use>
+        <use href="#v" x="360"></use><use href="#v" x="400"></use><use href="#v" x="440"></use><use href="#v" x="480"></use>
+        <use href="#v" x="520"></use><use href="#v" x="560"></use><use href="#v" x="600"></use><use href="#v" x="640"></use>
+        <use href="#v" x="680"></use><use href="#v" x="720"></use><use href="#v" x="760"></use><use href="#v" x="800"></use>
+        <use href="#v" x="840"></use><use href="#v" x="880"></use><use href="#v" x="920"></use><use href="#v" x="960"></use>
+        <use href="#v" x="1000"></use><use href="#v" x="1040"></use><use href="#v" x="1080"></use><use href="#v" x="1120"></use>
+        <use href="#v" x="1160"></use><use href="#v" x="1200"></use><use href="#v" x="1240"></use><use href="#v" x="1280"></use>
+        <use href="#v" x="1320"></use><use href="#v" x="1360"></use><use href="#v" x="1400"></use><use href="#v" x="1440"></use>
+        <use href="#v" x="1480"></use><use href="#v" x="1520"></use><use href="#v" x="1560"></use>
+      </g>
+      <!-- horizontal perspective lines -->
+      <g>
+        <line x1="0" y1="220" x2="1600" y2="220"></line>
+        <line x1="0" y1="260" x2="1600" y2="260"></line>
+        <line x1="0" y1="300" x2="1600" y2="300"></line>
+        <line x1="0" y1="340" x2="1600" y2="340"></line>
+        <line x1="0" y1="380" x2="1600" y2="380"></line>
+      </g>
+    </g>
+  </g>
+
+  <!-- title -->
+  <g filter="url(#glow)">
+    <text x="50%" y="135" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="52" fill="url(#neon)" font-weight="700" letter-spacing="1.5">
+      RAFAEL BRAGHITTONI
+    </text>
+    <text x="50%" y="185" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="22" fill="#cdd6f4" opacity="0.9">
+      Java • Spring • Kafka • AWS • COBOL
+    </text>
+  </g>
+
+  <!-- scanline animation -->
+  <rect x="0" y="-120" width="1600" height="120" fill="url(#neon)" opacity="0.18">
+    <animate attributeName="y" from="-120" to="400" dur="5s" repeatCount="indefinite"></animate>
+  </rect>
+</svg>
