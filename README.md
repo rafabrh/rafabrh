@@ -42,7 +42,6 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 
 ---
 
-## Estatísticas
 <p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true"
@@ -63,7 +62,6 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 
 ---
 
-## Terminal Neon
 <div align="center">
   <img src="assets/neon-term.gif" alt="terminal neon" width="85%" />
 </div>
