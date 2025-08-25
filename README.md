@@ -16,7 +16,6 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
 ---
 
 ## Tech Stack
-<!-- Ícones com Devicon (CDN) + badge COBOL -->
 <p>
   <!-- Core -->
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -37,7 +36,6 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
   <img alt="TS"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 
-<!-- COBOL não tem devicon oficial -->
 <p>
   <img alt="COBOL" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
@@ -49,25 +47,33 @@ Sou um desenvolvedor focado em soluções tecnológicas. Atualmente estudando AD
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true"
     height="165"
-/>
+  />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark&langs_count=8"
     height="165"
-/>
+  />
 </p>
 
 <p>
   <img 
     src="https://streak-stats.demolab.com?user=rafabrh&theme=dark&hide_border=true"
     height="165"
-/>
+  />
 </p>
 
 ---
 
 ## Banner
-<!-- Suba seu GIF/PNG em /assets. Tamanho sugerido ~1600x400. -->
-<img src="assets/cyberpunk-banner.gif" alt="banner cyberpunk" width="100%" />
+<img src="assets/cyberpunk-banner.svg" alt="banner cyberpunk" width="100%" />
+
+---
+
+## Terminal Neon
+<div align="center">
+  <img src="assets/neon-term.gif" alt="terminal neon" width="85%" />
+</div>
+
+---
 
 ## Snake
 <picture>
