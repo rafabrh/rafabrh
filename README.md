@@ -89,6 +89,12 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
   />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
+</picture>
+
 ---
 
 <!-- Snake: requer GitHub Action gerando /output/snake.svg -->
