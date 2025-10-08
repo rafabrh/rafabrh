@@ -1,9 +1,9 @@
-<!-- Headline -->
+
 # Rafael Alvarenga Braghittoni
 
 Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e iniciando trilha em **Blockchain (Solidity)**. Atualmente formado em **ADS (Anhembi Morumbi)** e construindo projetos práticos com entrega real.
 
-<!-- Social -->
+
 <div align="left">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thebraghittoni/)
@@ -17,7 +17,7 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 
 ## Tech Stack
 
-<!-- Backend / Infra -->
+
 <p>
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -36,7 +36,7 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
   <img alt="COBOL" height="40" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-<!-- Blockchain -->
+
 ### Blockchain (novo)
 <p>
   <img alt="Solidity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
@@ -67,7 +67,7 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 
 ## Métricas
 
-<!-- Dica: manter sem include_all_commits p/ evitar erro sem self-host -->
+
 <p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&cache_seconds=7200"
@@ -97,9 +97,3 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 
 ---
 
-<!-- Snake: requer GitHub Action gerando /output/snake.svg -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
-</picture>
