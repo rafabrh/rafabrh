@@ -1,6 +1,4 @@
 <!-- Título -->
-# Olá, eu sou o Rafael Braghittoni! 👋
-
 Desenvolvedor focado em soluções tecnológicas. Atualmente estudando ADS na Anhembi Morumbi e construindo projetos práticos.
 
 <!-- Badges de redes -->
