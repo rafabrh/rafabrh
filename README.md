@@ -37,7 +37,6 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 </p>
 
 
-### Blockchain (novo)
 <p>
   <img alt="Solidity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
   <a href="https://hardhat.org/">
