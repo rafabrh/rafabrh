@@ -1,7 +1,7 @@
 <!-- Headline -->
 # Rafael Alvarenga Braghittoni
 
-Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e iniciando trilha em **Blockchain (Solidity)**. Atualmente cursando **ADS (Anhembi Morumbi)** e construindo projetos práticos com entrega real.
+Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e iniciando trilha em **Blockchain (Solidity)**. Atualmente formado em **ADS (Anhembi Morumbi)** e construindo projetos práticos com entrega real.
 
 <!-- Social -->
 <div align="left">
