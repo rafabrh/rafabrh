@@ -2,15 +2,14 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # diário
+    - cron: "0 3 * * *" # roda diariamente às 03:00 UTC
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ESSENCIAL para publicar no branch output
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
@@ -19,6 +18,7 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
