@@ -60,8 +60,6 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
   <img alt="Ethers.js" height="28" src="https://img.shields.io/badge/Ethers.js-2537A6?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
-> Foco atual: contratos inteligentes simples (ERC-20/721) com **Hardhat + OpenZeppelin**, testes em JS/TS e deploy em testnets via **Alchemy/Infura**.
-
 ---
 
 ## Métricas
