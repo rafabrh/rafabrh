@@ -37,31 +37,6 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 </p>
 
 
-<p>
-  <img alt="Solidity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-  <a href="https://hardhat.org/">
-    <img alt="Hardhat" height="28" src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-  </a>
-  <a href="https://www.openzeppelin.com/">
-    <img alt="OpenZeppelin" height="28" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-  </a>
-  <a href="https://metamask.io/">
-    <img alt="MetaMask" height="28" src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  </a>
-  <a href="https://www.alchemy.com/">
-    <img alt="Alchemy" height="28" src="https://img.shields.io/badge/Alchemy-0B57D0?style=for-the-badge&logo=alchemy&logoColor=white" />
-  </a>
-  <a href="https://infura.io/">
-    <img alt="Infura" height="28" src="https://img.shields.io/badge/Infura-FF5C00?style=for-the-badge&logo=infura&logoColor=white" />
-  </a>
-  <a href="https://trufflesuite.com/">
-    <img alt="Truffle" height="28" src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" />
-  </a>
-  <img alt="Ethers.js" height="28" src="https://img.shields.io/badge/Ethers.js-2537A6?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
-
----
-
 ## Métricas
 
 
