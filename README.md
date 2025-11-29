@@ -1,8 +1,6 @@
-
 # Rafael Alvarenga Braghittoni
 
 Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e iniciando trilha em **Blockchain (Solidity)**. Atualmente formado em **ADS (Anhembi Morumbi)** e construindo projetos práticos com entrega real.
-
 
 <div align="left">
   
@@ -16,7 +14,6 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 ---
 
 ## Tech Stack
-
 
 <p>
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -36,18 +33,19 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
   <img alt="COBOL" height="40" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
+---
 
 ## Métricas
 
-
+<!-- 🔥 BLOCO NOVO COM MIRROR ESTÁVEL -->
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&cache_seconds=7200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafabrh&show_icons=true&theme=dark&rank_icon=github&cache_seconds=7200"
     height="165"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark&langs_count=8&cache_seconds=7200"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafabrh&layout=compact&theme=dark&langs_count=8&cache_seconds=7200"
     height="165"
     alt="Top Langs"
   />
@@ -68,4 +66,3 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring** e ini
 </picture>
 
 ---
-
