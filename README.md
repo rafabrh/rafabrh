@@ -31,8 +31,6 @@
 - **Arquitetura e resiliência**: idempotência, retries, DLQ, locks, consistência eventual e design orientado a eventos.
 - **Infra/DevOps**: Docker, CI/CD, ambientes, migrações (Flyway) e operação em produção.
 
-> Meu estilo de trabalho: **shipping com qualidade**. Primeiro entrega funcionando. Depois refino com engenharia.
-
 <br>
 
 ## Tech Stack
@@ -56,22 +54,6 @@
 </p>
 
 <br>
-
-## Monthly Highlights (Março 🌱)
-
-**Março é mês de**:
-- Consolidar fundamentos (SOLID, testes, arquitetura) com *aplicação prática* em projetos reais.
-- Fortalecer padrões de produção: **migrações, logs, métricas, tracing, segurança**.
-- Construir coisas que recrutador valida em 2 minutos: repositório limpo, README bom, endpoints claros, deploy e evidência.
-
-<br>
-
-## O que você vai ver por aqui
-
-- Projetos backend com **Spring Boot 3+**, integração, mensageria e banco.
-- Evolução contínua: refactors, melhorias, segurança e observabilidade.
-- Commits consistentes (o histórico conta história — e eu faço questão disso).
-
 ---
 
 ## Métricas
