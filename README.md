@@ -17,7 +17,7 @@
 
 <p align="left">
   <sub>
-    📌 ADS (Anhembi Morumbi) • Backend Java • Construindo e refinando projetos com entrega real (não “toy projects”).
+    📌 ADS (Anhembi Morumbi) • Backend Java • Construindo e refinando projetos com entrega real (e não “toy projects”).
   </sub>
 </p>
 
