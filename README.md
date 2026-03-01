@@ -30,7 +30,7 @@
 - **Backend Java profissional**: Spring Boot, REST, validação, segurança, logs, observabilidade e testes.
 - **Arquitetura e resiliência**: idempotência, retries, DLQ, locks, consistência eventual e design orientado a eventos.
 - **Infra/DevOps**: Docker, CI/CD, ambientes, migrações (Flyway) e operação em produção.
-
+- **Engenharia de dados (em evolução)**: estou aprofundando **PySpark** e **AWS** com foco em **Data Lake** (S3, Glue, Athena, Lake Formation), pipelines (batch/stream), qualidade e governança de dados — pra construir projetos que recrutadores conseguem validar: código, arquitetura, custo e resultados.
 <br>
 
 ## Tech Stack
