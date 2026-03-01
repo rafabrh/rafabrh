@@ -5,7 +5,7 @@
   <br/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=16000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Java+17%2B%2F21+%7C+Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+AWS+%7C+Docker.;🚀+Menos+teoria+solta%2C+mais+projeto+entregue+e+evolu%C3%ADdo+com+boas+pr%C3%A1ticas.;🔒+Idempot%C3%AAncia%2C+seguran%C3%A7a%2C+observabilidade%2C+resili%C3%AAncia+e+arquitetura+que+aguenta+porrada.)](https://github.com/rafabrh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=16000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Java+17%2B%2F21+%7C+Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+AWS+%7C+Docker+%7C+Python+%7C+PySpark.;🚀+Menos+teoria+solta%2C+mais+projeto+entregue+e+evolu%C3%ADdo+com+boas+pr%C3%A1ticas.;🔒+Idempot%C3%AAncia%2C+seguran%C3%A7a%2C+observabilidade%2C+resili%C3%AAncia+e+arquitetura+que+aguenta+porrada.)](https://github.com/rafabrh)
 
 <p align="left">
   <!-- CTAs: perfil e contato -->
