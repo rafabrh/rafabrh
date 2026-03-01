@@ -1,17 +1,40 @@
-# Rafael Alvarenga Braghittoni
+<h1 align="center">Fala 👋, eu sou o RaFa (Rafael Alvarenga Braghittoni).</h1>
 
-Desenvolvedor de Software focado em soluções robustas em **Java/Spring**. Atualmente formado em **ADS (Anhembi Morumbi)** e construindo projetos práticos com entrega real.
+<p align="left">
+  💼 Desenvolvedor de Software focado em soluções robustas em <strong>Java/Spring</strong>, integração e mensageria (Kafka), bancos relacionais e entrega com qualidade (teste, observabilidade e DevOps).
+  <br/>
+  🎯 Objetivo: evoluir para Engenheiro de Software (pleno/sênior) em empresas grandes, com portfólio real e consistência técnica.
+</p>
 
-<div align="left">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thebraghittoni/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafinhalvarenga@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafabrh/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982704692)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=16000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Java+17%2B%2F21+%7C+Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+AWS+%7C+Docker.;🚀+Menos+teoria+solta%2C+mais+projeto+entregue+e+evolu%C3%ADdo+com+boas+pr%C3%A1ticas.;🔒+Idempot%C3%AAncia%2C+seguran%C3%A7a%2C+observabilidade%2C+resili%C3%AAncia+e+arquitetura+que+aguenta+porrada.)](https://github.com/rafabrh)
 
-</div>
+<p align="left">
+  <!-- CTAs: perfil e contato -->
+  <a href="https://www.linkedin.com/in/rafabrh/">💼 LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:rafinhalvarenga@gmail.com">✉️ E-mail</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.instagram.com/thebraghittoni/">📸 Instagram</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://wa.me/5511982704692">💬 WhatsApp</a>
+</p>
+
+<p align="left">
+  <sub>
+    📌 ADS (Anhembi Morumbi) • Backend Java • Construindo e refinando projetos com entrega real (não “toy projects”).
+  </sub>
+</p>
+
+<br>
 
 ---
+
+## Foco atual (2026)
+
+- **Backend Java profissional**: Spring Boot, REST, validação, segurança, logs, observabilidade e testes.
+- **Arquitetura e resiliência**: idempotência, retries, DLQ, locks, consistência eventual e design orientado a eventos.
+- **Infra/DevOps**: Docker, CI/CD, ambientes, migrações (Flyway) e operação em produção.
+
+> Meu estilo de trabalho: **shipping com qualidade**. Primeiro entrega funcionando. Depois refino com engenharia.
+
+<br>
 
 ## Tech Stack
 
@@ -32,6 +55,23 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring**. Atua
   <img alt="TS"    height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="COBOL" height="40" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
+
+<br>
+
+## Monthly Highlights (Março 🌱)
+
+**Março é mês de**:
+- Consolidar fundamentos (SOLID, testes, arquitetura) com *aplicação prática* em projetos reais.
+- Fortalecer padrões de produção: **migrações, logs, métricas, tracing, segurança**.
+- Construir coisas que recrutador valida em 2 minutos: repositório limpo, README bom, endpoints claros, deploy e evidência.
+
+<br>
+
+## O que você vai ver por aqui
+
+- Projetos backend com **Spring Boot 3+**, integração, mensageria e banco.
+- Evolução contínua: refactors, melhorias, segurança e observabilidade.
+- Commits consistentes (o histórico conta história — e eu faço questão disso).
 
 ---
 
@@ -66,3 +106,11 @@ Desenvolvedor de Software focado em soluções robustas em **Java/Spring**. Atua
 </picture>
 
 ---
+
+<p align="center">
+  <sub> 
+    🤖 Mantido por <strong>RaFa</strong>
+    <br>
+    Engenharia boa é engenharia que <strong>aguenta produção</strong>.
+  </sub>
+</p>
