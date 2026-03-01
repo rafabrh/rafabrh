@@ -3,7 +3,6 @@
 <p align="left">
   💼 Desenvolvedor de Software focado em soluções robustas em <strong>Java/Spring</strong>, integração e mensageria (Kafka), bancos relacionais e entrega com qualidade (teste, observabilidade e DevOps).
   <br/>
-  🎯 Objetivo: evoluir para Engenheiro de Software (pleno/sênior) em empresas grandes, com portfólio real e consistência técnica.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=16000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Java+17%2B%2F21+%7C+Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+AWS+%7C+Docker.;🚀+Menos+teoria+solta%2C+mais+projeto+entregue+e+evolu%C3%ADdo+com+boas+pr%C3%A1ticas.;🔒+Idempot%C3%AAncia%2C+seguran%C3%A7a%2C+observabilidade%2C+resili%C3%AAncia+e+arquitetura+que+aguenta+porrada.)](https://github.com/rafabrh)
