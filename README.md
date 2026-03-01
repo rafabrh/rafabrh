@@ -1,4 +1,4 @@
-<h1 align="center">Fala 👋, eu sou o RaFa (Rafael Alvarenga Braghittoni).</h1>
+<h1 align="center">Rafael Alvarenga Braghittoni.</h1>
 
 <p align="left">
   💼 Desenvolvedor de Software focado em soluções robustas em <strong>Java/Spring</strong>, integração e mensageria (Kafka), bancos relacionais e entrega com qualidade (teste, observabilidade e DevOps).
