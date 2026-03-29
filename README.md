@@ -85,13 +85,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
   <img alt="snake animation" src="https://raw.githubusercontent.com/rafabrh/rafabrh/output/snake.svg?v=1">
 </picture>
-
----
-
-<p align="center">
-  <sub> 
-    🤖 Mantido por <strong>RaFa</strong>
-    <br>
-    Engenharia boa é engenharia que <strong>aguenta produção</strong>.
-  </sub>
-</p>
