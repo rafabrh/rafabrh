@@ -1,4 +1,4 @@
-<h1 align="center">Rafael Alvarenga Braghittoni.</h1>
+<h1 align="center">Rafael Alvarenga Braghittoni</h1>
 
 
 ## Tech Stack
