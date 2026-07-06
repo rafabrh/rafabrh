@@ -21,20 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=rafabrh&style=for-the-badge&color=39d353" alt="Profile views"/>
 </div>
 <br/>
-<!-- ═══════ SOBRE + GIF DE DESKTOP (troque a URL abaixo pelo GIF que escolher) ═══════ -->
-<img align="right" src="COLE_AQUI_A_URL_DO_SEU_GIF.gif" width="380" alt="coding gif"/>
-🚀 Sobre mim
-
-
-🧠 Backend Engineer com foco em Java 17+, Spring Boot 3, Kafka e gRPC
-🏗️ Fã de Clean Architecture, DDD e padrões de resiliência (Outbox, Saga, Idempotência)
-🤖 Fundador da SHK GROUP.IA — agentes de IA para atendimento e vendas
-⚙️ Construo pipelines de automação com N8N, Spring AI e LangChain
-🦕 Já mexi até em Mainframe (COBOL, DB2 z/OS, VSAM) — respeite os clássicos
-🌱 Sempre estudando: Spring AI, arquiteturas event-driven e sistemas distribuídos
-🤝 Voluntário no Rotaract Club São Paulo Tatuapé
-
-
 <br clear="right"/>
 
 🛠️ Tech Stack
