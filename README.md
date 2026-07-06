@@ -1,5 +1,3 @@
-precisamos continuar a lapidação da interface no requisito uxui. quando alguém envia uma mensagem no chato para nós, e pela interface eu clico na imagem para visualizar/expandir, a interface baixa a imagem e abre numa nova aba do navegador. o que eu quero é que ao clicar na imagem, gere uma pré-visualização igual a do whatsapp, com as funções de baixar imagem ou encaminhar, isso em todas as mensagens.
-
 <!-- ═══════════════════ HEADER ANIMADO ═══════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7f37,100:39d353&height=180&section=header&text=Rafael%20Alvarenga%20Braghittoni&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20%E2%80%A2%20Spring%20%E2%80%A2%20Kafka%20%E2%80%A2%20AI%20Automation&descAlignY=55&descSize=16" width="100%"/>
