@@ -5,7 +5,7 @@
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 <div align="center">
   <a href="https://github.com/rafabrh">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Senior+Backend+Developer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+gRPC;Clean+Architecture+%26+DDD;AI+Agents+%26+Automation+Builder;Founder+%40+SHK+GROUP.IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+gRPC;Clean+Architecture+%26+DDD;AI+Agents+%26+Automation+Builder;Founder+%40+SHK+GROUP.IA" alt="Typing SVG" />
   </a>
 </div>
 <br/>
