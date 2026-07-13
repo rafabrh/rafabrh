@@ -104,8 +104,8 @@
 ## 📌 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/rafabrh/sharknews">
-    <img src="https://rafabrh.vercel.app/api/pin/?username=rafabrh&repo=sharknews&theme=github_dark&hide_border=true&v=3" alt="SharkNews"/>
+  <a href="https://github.com/rafabrh/nexus">
+    <img src="https://rafabrh.vercel.app/api/pin/?username=rafabrh&repo=nexus&theme=github_dark&hide_border=true&v=3" alt="Nexus"/>
   </a>
   <a href="https://github.com/rafabrh/grpc-event-notification-service">
     <img src="https://rafabrh.vercel.app/api/pin/?username=rafabrh&repo=grpc-event-notification-service&theme=github_dark&hide_border=true&v=3" alt="gRPC Event Notification Service"/>
