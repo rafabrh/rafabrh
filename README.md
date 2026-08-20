@@ -54,6 +54,8 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e9669b5b-3698-422c-bd89-43ed155962c3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 🎨 Frontend
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
