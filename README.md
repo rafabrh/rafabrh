@@ -37,7 +37,7 @@
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-### 🗄️ Bancos de Dados
+###  Bancos de Dados
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -45,7 +45,7 @@
   <img alt="DB2" src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -55,7 +55,7 @@
 </p>
 
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -65,20 +65,20 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 IA & Automação
+###  IA & Automação
 <p>
   <img alt="Spring AI" src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img alt="N8N" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-### 🦕 Mainframe
+###  Mainframe
 <p>
   <img alt="COBOL" src="https://img.shields.io/badge/COBOL-0040FF?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img alt="z/OS" src="https://img.shields.io/badge/z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-## 📊 Métricas
+##  Métricas
 
 <div align="center">
   <img height="170" src="https://rafabrh.vercel.app/api?username=rafabrh&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats"/>
@@ -102,7 +102,7 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafabrh&theme=github_dark&utcOffset=-3" alt="Productive Time"/>
 </div>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
   <a href="https://github.com/rafabrh/nexus">
