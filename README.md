@@ -1,20 +1,3 @@
-<table>
-  <tr>
-    <td width="30%">
-      <img src="assets/banner.jpg" alt="Banner" width="100%"/>
-    </td>
-    <td width="70%">
-      <img src="assets/githubcard.svg" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<h1 align="center">Rafael Braghittoni</h1>
-
-<p align="center">
-  <strong>Backend Engineer | AI Automation Builder | Founder @ SHK GROUP.IA</strong>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-alvarenga-braghittoni/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
