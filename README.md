@@ -1,6 +1,13 @@
-<div align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%"/>
-</div>
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/banner.jpg" alt="Banner" width="100%"/>
+    </td>
+    <td width="70%">
+      <img src="assets/githubcard.svg" alt="GitHub Stats" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Rafael Braghittoni</h1>
 
@@ -37,15 +44,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,kafka,docker,kubernetes,aws,linux&theme=dark&perline=8" alt="Infra & Data"/>
   </a>
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafabrh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=rafabrh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
