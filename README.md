@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=rafabrh&style=for-the-badge&color=1a7f37" alt="Profile views"/>
 </p>
 
+<img width="1289" height="722" alt="image" src="https://github.com/user-attachments/assets/2091e237-f03d-4d08-a964-aee6a0983154" />
+
+
 ---
 
 ### Currently building
