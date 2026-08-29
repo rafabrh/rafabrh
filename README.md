@@ -1,3 +1,8 @@
+<img width="1289" height="722" alt="image" src="https://github.com/user-attachments/assets/2091e237-f03d-4d08-a964-aee6a0983154" />
+
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-alvarenga-braghittoni/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=rafabrh&style=for-the-badge&color=1a7f37" alt="Profile views"/>
 </p>
 
-<img width="1289" height="722" alt="image" src="https://github.com/user-attachments/assets/2091e237-f03d-4d08-a964-aee6a0983154" />
 
 
 ---
