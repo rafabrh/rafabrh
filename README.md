@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo,%20Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil"/>
-  <img src="https://komarev.com/ghpvc/?username=rafabrh&style=for-the-badge&color=1a7f37" alt="Profile views"/>
 </p>
 
 
