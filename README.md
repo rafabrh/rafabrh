@@ -19,7 +19,7 @@
 
 **[Nexus](https://github.com/rafabrh/.nexus)** — Plataforma multi-tenant de automacao WhatsApp com agentes de IA, construida com NestJS, RabbitMQ, Evolution API e Postgres. Pipeline completo: mensagem entra via webhook, passa pelo engine de IA (Groq/OpenAI), e volta pro cliente em tempo real.
 
-https://www.nexus.shkgroup.com.br
+www.nexus.shkgroup.com.br
 ---
 
 ### Tech stack
